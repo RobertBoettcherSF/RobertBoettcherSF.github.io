@@ -368,4 +368,4 @@
 
 ---
 
-*"The only way to make software reliable is to make it verifiable."* — Tony Hoare
+*"The only way to make software reliable is to make it verifiable."* — [Tony Hoare](https://en.wikipedia.org/wiki/Tony_Hoare)
