@@ -4,13 +4,13 @@
 
 *Building reliable, verifiable implementations of classic and modern algorithms in Ada and Ada SPARK*
 
-
-
 ---
 
 ## 📚 Algorithm Implementations
 
-## 🔗 Distributed &amp; Concurrent Algorithms
+---
+
+### 🔗 Distributed &amp; Concurrent Algorithms
 
 
 | Algorithm                      | Repository                                                                                                                              | Description                                 |
@@ -23,7 +23,7 @@
 | **Huang's**                    | [Ada-Huangs-Algorithm](https://github.com/RobertBoettcherSF/Ada-Huangs-Algorithm)                                                       | Distributed termination detection           |
 | **Lamport Ordering**           | [Ada-Lamport-Ordering](https://github.com/RobertBoettcherSF/Ada-Lamport-Ordering)                                                       | Causal message ordering                     |
 | **Lamport's Bakery**           | [Ada-lamport](https://github.com/RobertBoettcherSF/Ada-lamport)                                                                         | Mutual exclusion algorithm                  |
-| **Lamport's Mutual Exclusion** | [Lamports-Distributed-Mutual-Exclusion-Algorihtm](https://github.com/RobertBoettcherSF/Lamports-Distributed-Mutual-Exclusion-Algorihtm) | Distributed mutual exclusion                |
+| **Lamport's Mutual Exclusion** | [Lamports-Distributed-Mutual-Exclusion-Algorithm](https://github.com/RobertBoettcherSF/Lamports-Distributed-Mutual-Exclusion-Algorihtm) | Distributed mutual exclusion                |
 | **Maekawa's**                  | [Ada-Maekawas-Algorithm](https://github.com/RobertBoettcherSF/Ada-Maekawas-Algorithm)                                                   | Distributed mutual exclusion                |
 | **Nagle's**                    | [Ada-Nagles-Algorithm](https://github.com/RobertBoettcherSF/Ada-Nagles-Algorithm)                                                       | Network congestion control                  |
 | **Naimi-Trehel**               | [Ada-Naimi-Trehel](https://github.com/RobertBoettcherSF/Ada-Naimi-Trehel)                                                               | Distributed mutual exclusion                |
@@ -36,7 +36,9 @@
 | **XOR Swap**                   | [Ada-Xor-Swap-Algorithm](https://github.com/RobertBoettcherSF/Ada-Xor-Swap-Algorithm)                                                   | Value swapping without temporary variable   |
 
 
-## 💾 Memory Management &amp; Garbage Collection
+---
+
+### 💾 Memory Management &amp; Garbage Collection
 
 
 | Algorithm                   | Repository                                                                                                    | Description                            |
@@ -52,7 +54,9 @@
 | **Semi-Space Collectors**   | [Ada-Semi-Space-Collectors](https://github.com/RobertBoettcherSF/Ada-Semi-Space-Collectors)                   | Stop-the-world garbage collection      |
 
 
-## 🔍 Graph Algorithms
+---
+
+### 🔍 Graph Algorithms
 
 
 | Algorithm                        | Repository                                                                                                | Description                     |
@@ -68,7 +72,9 @@
 | **Warnsdorff's Rule**            | [Ada-Warnsdorffs-Rule](https://github.com/RobertBoettcherSF/Ada-Warnsdorffs-Rule)                         | Heuristic for the Knight's Tour |
 
 
-## 🎯 Scheduling Algorithms
+---
+
+### 🎯 Scheduling Algorithms
 
 
 | Algorithm                   | Repository                                                                                          | Description                      |
@@ -87,7 +93,9 @@
 | **Shortest Seek First**     | [Ada-SPARK-Shortest-Seek-First](https://github.com/RobertBoettcherSF/Ada-SPARK-Shortest-Seek-First) | Disk scheduling (SSTF)           |
 
 
-## 📊 Computer Vision &amp; Image Processing
+---
+
+### 📊 Computer Vision &amp; Image Processing
 
 
 | Algorithm                           | Repository                                                                                                          | Description                              |
@@ -113,7 +121,9 @@
 | **Watershed Transformation**        | [Ada-Watershed-Transformation](https://github.com/RobertBoettcherSF/Ada-Watershed-Transformation)                   | Image segmentation                       |
 
 
-## 🎨 Dithering &amp; Halftoning
+---
+
+### 🎨 Dithering &amp; Halftoning
 
 
 | Algorithm                     | Repository                                                                                          | Description               |
@@ -126,7 +136,9 @@
 | **Riemersma Dithering**       | [Ada-Riemersma-Dithering](https://github.com/RobertBoettcherSF/Ada-Riemersma-Dithering)             | Riemersma dithering       |
 
 
-## 🌊 Signal Processing &amp; Fourier Transforms
+---
+
+### 🌊 Signal Processing &amp; Fourier Transforms
 
 
 | Algorithm                       | Repository                                                                                                      | Description                  |
@@ -145,7 +157,9 @@
 | **Rader's FFT**                 | [Ada-Raders-FFT-Algorithm](https://github.com/RobertBoettcherSF/Ada-Raders-FFT-Algorithm)                       | FFT for prime sizes          |
 
 
-## 🗜️ Lossless Compression
+---
+
+### 🗜️ Lossless Compression
 
 
 | Algorithm                                  | Repository                                                                                                                                          | Description                |
@@ -192,7 +206,9 @@
 | **Universal Coding**                       | [Ada-Universal-Coding](https://github.com/RobertBoettcherSF/Ada-Universal-Coding)                                                                   | Universal coding           |
 
 
-## 🎞️ Lossy &amp; Media Compression
+---
+
+### 🎞️ Lossy &amp; Media Compression
 
 
 | Algorithm                                     | Repository                                                                                                                                        | Description                |
@@ -219,7 +235,9 @@
 | **Wavelet Compression**                       | [Ada-Wavelet-Compression](https://github.com/RobertBoettcherSF/Ada-Wavelet-Compression)                                                           | Wavelet-based compression  |
 
 
-## 🔐 Checksums, Hashing &amp; Error Detection
+---
+
+### 🔐 Checksums, Hashing &amp; Error Detection
 
 
 | Algorithm                         | Repository                                                                                                | Description             |
@@ -238,7 +256,9 @@
 | **Verhoeff Algorithm**            | [Ada-Verhoeff-Algorithm](https://github.com/RobertBoettcherSF/Ada-Verhoeff-Algorithm)                     | Check digit algorithm   |
 
 
-## 🗄️ Database Algorithms
+---
+
+### 🗄️ Database Algorithms
 
 
 | Algorithm                         | Repository                                                                                                  | Description                 |
@@ -252,7 +272,9 @@
 | **Sort-Merge Join**               | [Ada-Sort-Merge-Join](https://github.com/RobertBoettcherSF/Ada-Sort-Merge-Join)                             | Database join algorithm     |
 
 
-## 🎲 Game Theory Algorithms
+---
+
+### 🎲 Game Theory Algorithms
 
 
 | Algorithm               | Repository                                                                              | Description                  |
@@ -263,7 +285,9 @@
 | **Replicator Equation** | [Ada-Replicator-Equation](https://github.com/RobertBoettcherSF/Ada-Replicator-Equation) | Evolutionary game dynamics   |
 
 
-## ⚙️ Compiler, Hardware &amp; Logic Algorithms
+---
+
+### ⚙️ Compiler, Hardware &amp; Logic Algorithms
 
 
 | Algorithm           | Repository                                                                                          | Description                |
@@ -273,7 +297,9 @@
 | **Tomasulo**        | [Ada-Tomasulo-Algorithm](https://github.com/RobertBoettcherSF/Ada-Tomasulo-Algorithm)               | Out-of-order execution     |
 
 
-## 🔢 Mathematical &amp; Data Processing Algorithms
+---
+
+### 🔢 Mathematical &amp; Data Processing Algorithms
 
 
 | Algorithm                           | Repository                                                                                                                  | Description                       |
@@ -310,7 +336,9 @@
 | **Zobrist Hashing**                 | [Ada-Zobrist-Hashing](https://github.com/RobertBoettcherSF/Ada-Zobrist-Hashing)                                             | Hashing for game states           |
 
 
-## 🏗️ System &amp; Network Algorithms
+---
+
+### 🏗️ System &amp; Network Algorithms
 
 
 | Algorithm                                | Repository                                                                                                                | Description                               |
@@ -329,7 +357,9 @@
 | **Watchdog Timer**                       | [watchdog\_timer](https://github.com/RobertBoettcherSF/watchdog_timer)                                                    | Safety-critical heartbeat monitor         |
 
 
-## 🎓 Research &amp; Specialized Algorithms
+---
+
+### 🎓 Research &amp; Specialized Algorithms
 
 
 | Algorithm                                      | Repository                                                                                                            | Description                                   |
@@ -348,7 +378,56 @@
 | **Winnow Algorithm**                           | [Ada-Winnow-Algorithm](https://github.com/RobertBoettcherSF/Ada-Winnow-Algorithm)                                     | Machine learning classification               |
 
 
-## 📦 Collections &amp; Frameworks
+---
+
+### 🧮 Parsing &amp; Compilation Algorithms
+
+
+| Algorithm                         | Repository                                                                                                                      | Description                                    |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| **Simple LR Parser**              | [Ada-Simple-LR-Parser](https://github.com/RobertBoettcherSF/Ada-Simple-LR-Parser)                                               | Simple LR parser in Ada                        |
+| **Simple Precedence Parser**      | [Ada-Simple-Precdence-Parser](https://github.com/RobertBoettcherSF/Ada-Simple-Precdence-Parser)                                 | Simple precedence parser in Ada                |
+| **Packrat Parser**                | [Ada-Packrat-Parser](https://github.com/RobertBoettcherSF/Ada-Packrat-Parser)                                                   | Packrat parser in Ada                          |
+| **Pratt Parser**                  | [Ada-Pratt-Parser](https://github.com/RobertBoettcherSF/Ada-Pratt-Parser)                                                       | Pratt parser in Ada                            |
+| **Recursive Descent Parser**      | [Ada-Recursive-Descent-Parser](https://github.com/RobertBoettcherSF/Ada-Recursive-Descent-Parser)                               | Recursive descent parser in Ada                |
+| **Shunting-Yard Algorithm**       | [Ada-Shunting-Yard-Algorithm](https://github.com/RobertBoettcherSF/Ada-Shunting-Yard-Algorithm)                                 | Shunting-yard algorithm in Ada                 |
+| **Hindley-Milner Type Inference** | [Ada-Hindley-Milner-Type-Inference-Algorithm](https://github.com/RobertBoettcherSF/Ada-Hindley-Milner-Type-Inference-Algorithm) | Hindley-Milner type inference algorithm in Ada |
+
+
+---
+
+### ⚛️ Quantum Algorithms
+
+
+| Algorithm                           | Repository                                                                                                            | Description                               |
+| ----------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| **Aharonov-Jones-Landau**           | [Ada-Aharonov-Jones-Landau-Algorithm](https://github.com/RobertBoettcherSF/Ada-Aharonov-Jones-Landau-Algorithm)       | Aharonov-Jones-Landau algorithm in Ada    |
+| **Amplitude Amplification**         | [Ada-Amplitude-Amplification](https://github.com/RobertBoettcherSF/Ada-Amplitude-Amplification)                       | Amplitude amplification in Ada            |
+| **Bernstein-Varizani**              | [Ada-Bernstein-Varizani-Algorithm](https://github.com/RobertBoettcherSF/Ada-Bernstein-Varizani-Algorithm)             | Bernstein-Varizani algorithm in Ada       |
+| **BHT Algorithm**                   | [Ada-BHT-Algorithm](https://github.com/RobertBoettcherSF/Ada-BHT-Algorithm)                                           | BHT algorithm in Ada                      |
+| **Boson Sampling**                  | [Ada-Boson-Sampling](https://github.com/RobertBoettcherSF/Ada-Boson-Sampling)                                         | Boson sampling in Ada                     |
+| **Chaitin's Algorithm**             | [Ada-Chaitins-Algorithm](https://github.com/RobertBoettcherSF/Ada-Chaitins-Algorithm)                                 | Chaitin's algorithm in Ada                |
+| **Deutsch-Josza**                   | [Ada-Deutsch-Josza-Algorithm](https://github.com/RobertBoettcherSF/Ada-Deutsch-Josza-Algorithm)                       | Deutsch-Josza algorithm in Ada            |
+| **Grover's Algorithm**              | [Ada-Grovers-Algorithm](https://github.com/RobertBoettcherSF/Ada-Grovers-Algorithm)                                   | Grover's algorithm in Ada                 |
+| **Hadamard Test**                   | [Ada-Hadamard-Test](https://github.com/RobertBoettcherSF/Ada-Hadamard-Test)                                           | Hadamard test in Ada                      |
+| **Hadamard Transform**              | [Ada-Hadamard-Transform](https://github.com/RobertBoettcherSF/Ada-Hadamard-Transform)                                 | Hadamard transform in Ada                 |
+| **Hamiltonian Simulation**          | [Ada-Hamiltonian-Simulation](https://github.com/RobertBoettcherSF/Ada-Hamiltonian-Simulation)                         | Hamiltonian simulation in Ada             |
+| **HHL Algorithm**                   | [Ada-HHL-Algorithm](https://github.com/RobertBoettcherSF/Ada-HHL-Algorithm)                                           | HHL algorithm in Ada                      |
+| **Hidden Linear Function Problem**  | [Ada-Hidden-Linear-Function-Problem](https://github.com/RobertBoettcherSF/Ada-Hidden-Linear-Function-Problem)         | Hidden linear function problem in Ada     |
+| **Hidden Shift Problem**            | [Ada-Hidden-Shift-Problem](https://github.com/RobertBoettcherSF/Ada-Hidden-Shift-Problem)                             | Hidden shift problem in Ada               |
+| **Hidden Subgroup Problem**         | [Ada-Hidden-Subgroup-Problem](https://github.com/RobertBoettcherSF/Ada-Hidden-Subgroup-Problem)                       | Hidden subgroup problem in Ada            |
+| **Non-Local Quantum Computation**   | [Ada-Non-Local-Quantum-Computation](https://github.com/RobertBoettcherSF/Ada-Non-Local-Quantum-Computation)           | Non-local quantum computation in Ada      |
+| **Quantum Annealing**               | [Ada-Quantum-Annealing](https://github.com/RobertBoettcherSF/Ada-Quantum-Annealing)                                   | Quantum annealing in Ada                  |
+| **Quantum Artificial Life**         | [Ada-Quantum-Artificial-Life](https://github.com/RobertBoettcherSF/Ada-Quantum-Artificial-Life)                       | Quantum artificial life in Ada            |
+| **Quantum Counting**                | [Ada-Quantum-Counting-Algorithm](https://github.com/RobertBoettcherSF/Ada-Quantum-Counting-Algorithm)                 | Quantum counting algorithm in Ada         |
+| **Quantum Fourier Transform**       | [Ada-Quantum-Fourier-Transform](https://github.com/RobertBoettcherSF/Ada-Quantum-Fourier-Transform)                   | Quantum Fourier transform in Ada          |
+| **Quantum Optimization Algorithms** | [Ada-Quantum-Optimization-Algorithms](https://github.com/RobertBoettcherSF/Ada-Quantum-Optimization-Algorithms)       | Quantum optimization algorithms in Ada    |
+| **Quantum Phase Estimation**        | [Ada-Quantum-Phase-Estimation-Algorithm](https://github.com/RobertBoettcherSF/Ada-Quantum-Phase-Estimation-Algorithm) | Quantum phase estimation algorithm in Ada |
+
+
+---
+
+### 📦 Collections &amp; Frameworks
 
 
 | Repository                                                                    | Description                                             |
@@ -356,6 +435,7 @@
 | [ada-code-examples](https://github.com/RobertBoettcherSF/ada-code-examples)   | Collection of working Ada code                          |
 | [ada-language-guide](https://github.com/RobertBoettcherSF/ada-language-guide) | Guide to the Ada programming language                   |
 | [skip\_list](https://github.com/RobertBoettcherSF/skip_list)                  | Skip List — probabilistic alternative to balanced trees |
+| [Sternenfisch-Diary](https://github.com/RobertBoettcherSF/Sternenfisch-Diary) | A diary by Sternenfisch                                 |
 
 
 ---
