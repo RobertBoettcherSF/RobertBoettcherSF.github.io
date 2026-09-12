@@ -70,6 +70,42 @@
 | **Topological Sort**             | [Ada-Topological-Sort](https://github.com/RobertBoettcherSF/Ada-Topological-Sort)                         | DAG vertex ordering             |
 | **Uniform-Cost Search**          | [Ada-Uniform-Cost-Search](https://github.com/RobertBoettcherSF/Ada-Uniform-Cost-Search)                   | Weighted graph search           |
 | **Warnsdorff's Rule**            | [Ada-Warnsdorffs-Rule](https://github.com/RobertBoettcherSF/Ada-Warnsdorffs-Rule)                         | Heuristic for the Knight's Tour |
+| **Bellman–Ford** | [Ada-Bellman-Ford-Algorithm](https://github.com/RobertBoettcherSF/Ada-Bellman-Ford-Algorithm) | Single-source shortest paths with negatives |
+| **Blossom** | [Ada-Blossom-Algorithm](https://github.com/RobertBoettcherSF/Ada-Blossom-Algorithm) | Maximum matching in general graphs |
+| **Borůvka** | [Ada-Boruvkas-Algorithm](https://github.com/RobertBoettcherSF/Ada-Boruvkas-Algorithm) | Minimum spanning tree |
+| **Christofides** | [Ada-Christofides-Algorithm](https://github.com/RobertBoettcherSF/Ada-Christofides-Algorithm) | TSP approximation |
+| **Coin Graph** | [Ada-Coin-Graph](https://github.com/RobertBoettcherSF/Ada-Coin-Graph) | Coin-graph constructions |
+| **Coloring** | [Ada-Coloring-Algorithm](https://github.com/RobertBoettcherSF/Ada-Coloring-Algorithm) | Graph coloring heuristics |
+| **Dinic** | [Ada-Dinics-Algorithm](https://github.com/RobertBoettcherSF/Ada-Dinics-Algorithm) | Maximum flow (blocking flows) |
+| **Edmonds (Arborescence)** | [Ada-Edmonds-Algorithm](https://github.com/RobertBoettcherSF/Ada-Edmonds-Algorithm) | Minimum branching / arborescence |
+| **Edmonds–Karp** | [Ada-Edmonds-Karp-Algorithm](https://github.com/RobertBoettcherSF/Ada-Edmonds-Karp-Algorithm) | Maximum flow (BFS augmenting paths) |
+| **Euclidean MST** | [Ada-Euclidean-Minimum-Spanning-Tree](https://github.com/RobertBoettcherSF/Ada-Euclidean-Minimum-Spanning-Tree) | MST in the plane |
+| **Flow Networks** | [Ada-Flow-Networks](https://github.com/RobertBoettcherSF/Ada-Flow-Networks) | Flow network survey / utilities |
+| **Floyd–Warshall** | [Ada-Floyd-Warshall-Algorithm](https://github.com/RobertBoettcherSF/Ada-Floyd-Warshall-Algorithm) | All-pairs shortest paths |
+| **Force-Based Layout** | [Ada-Force-Based-Algorithms](https://github.com/RobertBoettcherSF/Ada-Force-Based-Algorithms) | Force-directed graph drawing |
+| **Ford–Fulkerson** | [Ada-Ford-Fulkerson-Algorithm](https://github.com/RobertBoettcherSF/Ada-Ford-Fulkerson-Algorithm) | Maximum flow (augmenting paths) |
+| **Hopcroft–Karp** | [Ada-Hopcroft-Karp-Algorithm](https://github.com/RobertBoettcherSF/Ada-Hopcroft-Karp-Algorithm) | Maximum bipartite matching |
+| **Hungarian** | [Ada-Hungarian-Algorithm](https://github.com/RobertBoettcherSF/Ada-Hungarian-Algorithm) | Assignment problem |
+| **HITS** | [Ada-Hyperlink-Induced-Topic-Search](https://github.com/RobertBoettcherSF/Ada-Hyperlink-Induced-Topic-Search) | Hubs and authorities |
+| **Johnson** | [Ada-Johnsons-Algorithm](https://github.com/RobertBoettcherSF/Ada-Johnsons-Algorithm) | All-pairs shortest paths |
+| **Karger** | [Ada-Kargers-Algorithm](https://github.com/RobertBoettcherSF/Ada-Kargers-Algorithm) | Randomized min-cut |
+| **Kruskal** | [Ada-Kruskals-Algorithm](https://github.com/RobertBoettcherSF/Ada-Kruskals-Algorithm) | Minimum spanning tree |
+| **Longest Path** | [Ada-Longest-Path-Problem](https://github.com/RobertBoettcherSF/Ada-Longest-Path-Problem) | Longest paths in graphs |
+| **Minimum Spanning Tree** | [Ada-Minimum-Spanning-Tree](https://github.com/RobertBoettcherSF/Ada-Minimum-Spanning-Tree) | MST survey |
+| **Nearest Neighbor (TSP)** | [Ada-Nearest-Neighbor-Algorithm](https://github.com/RobertBoettcherSF/Ada-Nearest-Neighbor-Algorithm) | TSP heuristic |
+| **Nonblocking Switch** | [Ada-Nonblocking-Minimal-Spanning-Switch](https://github.com/RobertBoettcherSF/Ada-Nonblocking-Minimal-Spanning-Switch) | Nonblocking spanning switch |
+| **PageRank** | [Ada-PageRank](https://github.com/RobertBoettcherSF/Ada-PageRank) | Link analysis ranking |
+| **Prim** | [Ada-Prims-Algorithm](https://github.com/RobertBoettcherSF/Ada-Prims-Algorithm) | Minimum spanning tree |
+| **Prüfer Coding** | [Ada-Prufer-Coding](https://github.com/RobertBoettcherSF/Ada-Prufer-Coding) | Tree ↔ Prüfer sequence |
+| **Reverse-Delete** | [Ada-Reverse-Delete-Algorithm](https://github.com/RobertBoettcherSF/Ada-Reverse-Delete-Algorithm) | Minimum spanning tree |
+| **Shortest Path Problem** | [Ada-Shortest-Path-Problem](https://github.com/RobertBoettcherSF/Ada-Shortest-Path-Problem) | Shortest-path survey |
+| **Tarjan Offline LCA** | [Ada-Tarjans-Off-Line-Lowest-Common-Ancestors](https://github.com/RobertBoettcherSF/Ada-Tarjans-Off-Line-Lowest-Common-Ancestors) | Offline lowest common ancestors |
+| **Transitive Closure** | [Ada-Transitive-Closure](https://github.com/RobertBoettcherSF/Ada-Transitive-Closure) | Reachability / closure |
+| **Travelling Salesman** | [Ada-Travelling-Salesman-Problem](https://github.com/RobertBoettcherSF/Ada-Travelling-Salesman-Problem) | TSP algorithms survey |
+| **TrustRank** | [Ada-TrustRank](https://github.com/RobertBoettcherSF/Ada-TrustRank) | Trust-based ranking |
+| **Vehicle Routing** | [Ada-Vehicle-Routing-Problem](https://github.com/RobertBoettcherSF/Ada-Vehicle-Routing-Problem) | VRP heuristics |
+| **A*** | [Ada-A-Star](https://github.com/RobertBoettcherSF/Ada-A-Star) | Heuristic pathfinding |
+| **B*** | [Ada-B-Star](https://github.com/RobertBoettcherSF/Ada-B-Star) | Heuristic search |
 
 
 ---
@@ -283,6 +319,22 @@
 | **Lemke-Howson**        | [Ada-Lemke-Howson](https://github.com/RobertBoettcherSF/Ada-Lemke-Howson)               | Nash equilibrium computation |
 | **Regret Minimization** | [Ada-Regret-Minimization](https://github.com/RobertBoettcherSF/Ada-Regret-Minimization) | Strategy learning            |
 | **Replicator Equation** | [Ada-Replicator-Equation](https://github.com/RobertBoettcherSF/Ada-Replicator-Equation) | Evolutionary game dynamics   |
+| **Gale–Shapley** | [Ada-Gale-Shapley-Algorithm](https://github.com/RobertBoettcherSF/Ada-Gale-Shapley-Algorithm) | Stable matching / deferred acceptance |
+| **Shapley Value** | [Ada-Shapley-Value](https://github.com/RobertBoettcherSF/Ada-Shapley-Value) | Cooperative game fair allocation |
+| **Core** | [Ada-Core](https://github.com/RobertBoettcherSF/Ada-Core) | Core of a cooperative game |
+| **Nucleolus** | [Ada-Nucleolus](https://github.com/RobertBoettcherSF/Ada-Nucleolus) | Leximin excess solution concept |
+| **Banzhaf Power Index** | [Ada-Banzhaf-Power-Index](https://github.com/RobertBoettcherSF/Ada-Banzhaf-Power-Index) | Voting power / swing coalitions |
+| **Correlated Equilibrium** | [Ada-Correlated-Equilibrium](https://github.com/RobertBoettcherSF/Ada-Correlated-Equilibrium) | Aumann correlated equilibrium |
+| **Bayesian Nash Equilibrium** | [Ada-Bayesian-Nash-Equilibrium](https://github.com/RobertBoettcherSF/Ada-Bayesian-Nash-Equilibrium) | Incomplete-information Nash |
+| **Backward Induction** | [Ada-Backward-Induction](https://github.com/RobertBoettcherSF/Ada-Backward-Induction) | Extensive-form perfect-information solve |
+| **Monte Carlo Tree Search** | [Ada-Monte-Carlo-Tree-Search](https://github.com/RobertBoettcherSF/Ada-Monte-Carlo-Tree-Search) | UCT tree search for games |
+| **Multiplicative Weight Update** | [Ada-Multiplicative-Weight-Update-Method](https://github.com/RobertBoettcherSF/Ada-Multiplicative-Weight-Update-Method) | Online learning / Hedge |
+| **Mirror Descent** | [Ada-Mirror-Descent](https://github.com/RobertBoettcherSF/Ada-Mirror-Descent) | First-order optimization / online learning |
+| **Mean-Field Game** | [Ada-Mean-Field-Game](https://github.com/RobertBoettcherSF/Ada-Mean-Field-Game) | Continuum limit of large games |
+| **Potential Game** | [Ada-Potential-Game](https://github.com/RobertBoettcherSF/Ada-Potential-Game) | Exact/ordinal potential games |
+| **Vickrey–Clarke–Groves** | [Ada-Vickrey-Clarke-Groves-Mechanism](https://github.com/RobertBoettcherSF/Ada-Vickrey-Clarke-Groves-Mechanism) | Truthful mechanism design (VCG) |
+| **Combinatorial Auction** | [Ada-Combinatorial-Auction](https://github.com/RobertBoettcherSF/Ada-Combinatorial-Auction) | Bundle bids / winner determination |
+| **Top Trading Cycle** | [Ada-Top-Trading-Cycle](https://github.com/RobertBoettcherSF/Ada-Top-Trading-Cycle) | Housing-market allocation (TTC) |
 
 
 ---
@@ -427,6 +479,40 @@
 
 ---
 
+
+### 🎰 Pseudorandom Number Generators
+
+
+| Algorithm | Repository | Description |
+| --- | --- | --- |
+| **Linear Congruential Generator** | [Ada-Linear-Congruential-Generator](https://github.com/RobertBoettcherSF/Ada-Linear-Congruential-Generator) | Classic LCG family |
+| **Lagged Fibonacci Generator** | [Ada-Lagged-Fibonacci-Generator](https://github.com/RobertBoettcherSF/Ada-Lagged-Fibonacci-Generator) | Lagged Fibonacci PRNG |
+| **ACORN Generator** | [Ada-ACORN-Generator](https://github.com/RobertBoettcherSF/Ada-ACORN-Generator) | Additive congruential PRNG (Wikramaratna) |
+| **Blum Blum Shub** | [Ada-Blum-Blum-Shub](https://github.com/RobertBoettcherSF/Ada-Blum-Blum-Shub) | Cryptographic PRNG |
+| **Pseudorandom Number Generator** | [Ada-Pseudorandom-Number-Generator](https://github.com/RobertBoettcherSF/Ada-Pseudorandom-Number-Generator) | PRNG survey (LCG / LFG / xorshift) |
+| **Floyd’s Cycle-Finding** | [Ada-Floyds-Cycle-Finding-Algorithm](https://github.com/RobertBoettcherSF/Ada-Floyds-Cycle-Finding-Algorithm) | Tortoise-and-hare cycle detection |
+| **Brent’s Algorithm** | [Ada-Brents-Algorithm](https://github.com/RobertBoettcherSF/Ada-Brents-Algorithm) | Cycle detection (power-of-two teleports) |
+
+
+### 🧠 Markov Decision Processes & Reinforcement Learning
+
+
+| Algorithm | Repository | Description |
+| --- | --- | --- |
+| **Value Iteration** | [Ada-Value-Iteration](https://github.com/RobertBoettcherSF/Ada-Value-Iteration) | MDP Bellman optimality iteration |
+| **Policy Iteration** | [Ada-Policy-Iteration](https://github.com/RobertBoettcherSF/Ada-Policy-Iteration) | Howard policy evaluation / improvement |
+
+
+### 📐 Convex Optimization & Matrix Scaling
+
+
+| Algorithm | Repository | Description |
+| --- | --- | --- |
+| **Ellipsoid Method** | [Ada-Ellipsoid-Method](https://github.com/RobertBoettcherSF/Ada-Ellipsoid-Method) | Convex optimization via shrinking ellipsoids |
+| **Birkhoff–von Neumann** | [Ada-Birkhoff-von-Neumann](https://github.com/RobertBoettcherSF/Ada-Birkhoff-von-Neumann) | Doubly stochastic → permutation decomposition |
+| **Sinkhorn–Knopp** | [Ada-Sinkhorn-Knopp-Algorithm](https://github.com/RobertBoettcherSF/Ada-Sinkhorn-Knopp-Algorithm) | Matrix scaling to doubly stochastic form |
+
+
 ### 📦 Collections &amp; Frameworks
 
 
@@ -443,6 +529,8 @@
 ## 🎯 Project Status
 
 **Active Development**: Continuously implementing algorithms from the [Wikipedia List of Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms) in Ada and Ada SPARK for formal verification and safety-critical applications.
+
+**2026-09 sheet pass**: Wikipedia algorithm survey packages continued through **Sinkhorn–Knopp** — matching & cycle detection, PRNGs, cooperative and non-cooperative game theory, MDPs, mechanism design, Birkhoff–von Neumann, and Sinkhorn scaling. Next focus: Ada SPARK / GNATprove Level 4 ports of the same algorithms.
 
 **Year**: 2026
 
