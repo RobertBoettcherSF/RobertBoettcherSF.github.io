@@ -537,3 +537,260 @@
 ---
 
 *"The only way to make software reliable is to make it verifiable."* — [Tony Hoare](https://en.wikipedia.org/wiki/Tony_Hoare)
+
+<!-- ADA-CATALOG:SPARK-BEGIN -->
+## ✅ Ada SPARK Level 4 Ports
+
+Formally verified educational packages (`gnatprove` Level 4). Companion plain-Ada repos often exist without the `SPARK` infix.
+
+
+---
+
+### All Ada-SPARK repositories
+
+
+| Package | Repository |
+| --- | --- |
+| **A Star** | [Ada-SPARK-A-Star](https://github.com/RobertBoettcherSF/Ada-SPARK-A-Star) |
+| **ACORN Generator** | [Ada-SPARK-ACORN-Generator](https://github.com/RobertBoettcherSF/Ada-SPARK-ACORN-Generator) |
+| **Bead Sort** | [Ada-SPARK-Bead-Sort](https://github.com/RobertBoettcherSF/Ada-SPARK-Bead-Sort) |
+| **Best First Search** | [Ada-SPARK-Best-First-Search](https://github.com/RobertBoettcherSF/Ada-SPARK-Best-First-Search) |
+| **Binary GCD** | [Ada-SPARK-Binary-GCD](https://github.com/RobertBoettcherSF/Ada-SPARK-Binary-GCD) |
+| **Binary Search** | [Ada-SPARK-Binary-Search](https://github.com/RobertBoettcherSF/Ada-SPARK-Binary-Search) |
+| **Bitonic Sorter** | [Ada-SPARK-Bitonic-Sorter](https://github.com/RobertBoettcherSF/Ada-SPARK-Bitonic-Sorter) |
+| **Blum Blum Shub** | [Ada-SPARK-Blum-Blum-Shub](https://github.com/RobertBoettcherSF/Ada-SPARK-Blum-Blum-Shub) |
+| **Bogosort** | [Ada-SPARK-Bogosort](https://github.com/RobertBoettcherSF/Ada-SPARK-Bogosort) |
+| **Breadth First Search** | [Ada-SPARK-Breadth-First-Search](https://github.com/RobertBoettcherSF/Ada-SPARK-Breadth-First-Search) |
+| **Brents Algorithm** | [Ada-SPARK-Brents-Algorithm](https://github.com/RobertBoettcherSF/Ada-SPARK-Brents-Algorithm) |
+| **Bubble Sort** | [Ada-SPARK-Bubble-Sort](https://github.com/RobertBoettcherSF/Ada-SPARK-Bubble-Sort) |
+| **Bucket Sort** | [Ada-SPARK-Bucket-Sort](https://github.com/RobertBoettcherSF/Ada-SPARK-Bucket-Sort) |
+| **Burstsort** | [Ada-SPARK-Burstsort](https://github.com/RobertBoettcherSF/Ada-SPARK-Burstsort) |
+| **Cocktail Shaker Sort** | [Ada-SPARK-Cocktail-Shaker-Sort](https://github.com/RobertBoettcherSF/Ada-SPARK-Cocktail-Shaker-Sort) |
+| **Comb Sort** | [Ada-SPARK-Comb-Sort](https://github.com/RobertBoettcherSF/Ada-SPARK-Comb-Sort) |
+| **Counting Sort** | [Ada-SPARK-Counting-Sort](https://github.com/RobertBoettcherSF/Ada-SPARK-Counting-Sort) |
+| **Cycle Sort** | [Ada-SPARK-Cycle-Sort](https://github.com/RobertBoettcherSF/Ada-SPARK-Cycle-Sort) |
+| **Dijkstras Algorithm** | [Ada-SPARK-Dijkstras-Algorithm](https://github.com/RobertBoettcherSF/Ada-SPARK-Dijkstras-Algorithm) |
+| **Euclidean Algorithm** | [Ada-SPARK-Euclidean-Algorithm](https://github.com/RobertBoettcherSF/Ada-SPARK-Euclidean-Algorithm) |
+| **Extended Euclidean Algorithm** | [Ada-SPARK-Extended-Euclidean-Algorithm](https://github.com/RobertBoettcherSF/Ada-SPARK-Extended-Euclidean-Algorithm) |
+| **Fibonacci Search** | [Ada-SPARK-Fibonacci-Search](https://github.com/RobertBoettcherSF/Ada-SPARK-Fibonacci-Search) |
+| **Flashsort** | [Ada-SPARK-Flashsort](https://github.com/RobertBoettcherSF/Ada-SPARK-Flashsort) |
+| **Floyds Cycle Finding Algorithm** | [Ada-SPARK-Floyds-Cycle-Finding-Algorithm](https://github.com/RobertBoettcherSF/Ada-SPARK-Floyds-Cycle-Finding-Algorithm) |
+| **Gnome Sort** | [Ada-SPARK-Gnome-Sort](https://github.com/RobertBoettcherSF/Ada-SPARK-Gnome-Sort) |
+| **Heaps Algorithm** | [Ada-SPARK-Heaps-Algorithm](https://github.com/RobertBoettcherSF/Ada-SPARK-Heaps-Algorithm) |
+| **Heapsort** | [Ada-SPARK-Heapsort](https://github.com/RobertBoettcherSF/Ada-SPARK-Heapsort) |
+| **Insertion Sort** | [Ada-SPARK-Insertion-Sort](https://github.com/RobertBoettcherSF/Ada-SPARK-Insertion-Sort) |
+| **Interpolation Search** | [Ada-SPARK-Interpolation-Search](https://github.com/RobertBoettcherSF/Ada-SPARK-Interpolation-Search) |
+| **Introselect** | [Ada-SPARK-Introselect](https://github.com/RobertBoettcherSF/Ada-SPARK-Introselect) |
+| **Introsort** | [Ada-SPARK-Introsort](https://github.com/RobertBoettcherSF/Ada-SPARK-Introsort) |
+| **Jump Search** | [Ada-SPARK-Jump-Search](https://github.com/RobertBoettcherSF/Ada-SPARK-Jump-Search) |
+| **K Way Merge** | [Ada-SPARK-K-Way-Merge](https://github.com/RobertBoettcherSF/Ada-SPARK-K-Way-Merge) |
+| **Lagged Fibonacci Generator** | [Ada-SPARK-Lagged-Fibonacci-Generator](https://github.com/RobertBoettcherSF/Ada-SPARK-Lagged-Fibonacci-Generator) |
+| **Lemke Howson** | [Ada-SPARK-Lemke-Howson](https://github.com/RobertBoettcherSF/Ada-SPARK-Lemke-Howson) |
+| **Library Sort** | [Ada-SPARK-Library-Sort](https://github.com/RobertBoettcherSF/Ada-SPARK-Library-Sort) |
+| **Linear Congruential Generator** | [Ada-SPARK-Linear-Congruential-Generator](https://github.com/RobertBoettcherSF/Ada-SPARK-Linear-Congruential-Generator) |
+| **Linear Search** | [Ada-SPARK-Linear-Search](https://github.com/RobertBoettcherSF/Ada-SPARK-Linear-Search) |
+| **Merge Sort** | [Ada-SPARK-Merge-Sort](https://github.com/RobertBoettcherSF/Ada-SPARK-Merge-Sort) |
+| **Mersenne Twister** | [Ada-SPARK-Mersenne-Twister](https://github.com/RobertBoettcherSF/Ada-SPARK-Mersenne-Twister) |
+| **Odd Even Sort** | [Ada-SPARK-Odd-Even-Sort](https://github.com/RobertBoettcherSF/Ada-SPARK-Odd-Even-Sort) |
+| **Package Merge Algorithm** | [Ada-SPARK-Package-Merge-Algorithm](https://github.com/RobertBoettcherSF/Ada-SPARK-Package-Merge-Algorithm) |
+| **Pancake Sorting** | [Ada-SPARK-Pancake-Sorting](https://github.com/RobertBoettcherSF/Ada-SPARK-Pancake-Sorting) |
+| **Patience Sorting** | [Ada-SPARK-Patience-Sorting](https://github.com/RobertBoettcherSF/Ada-SPARK-Patience-Sorting) |
+| **Pigeonhole Sort** | [Ada-SPARK-Pigeonhole-Sort](https://github.com/RobertBoettcherSF/Ada-SPARK-Pigeonhole-Sort) |
+| **Postman Sort** | [Ada-SPARK-Postman-Sort](https://github.com/RobertBoettcherSF/Ada-SPARK-Postman-Sort) |
+| **Quantum Sort** | [Ada-SPARK-Quantum-Sort](https://github.com/RobertBoettcherSF/Ada-SPARK-Quantum-Sort) |
+| **Quickselect** | [Ada-SPARK-Quickselect](https://github.com/RobertBoettcherSF/Ada-SPARK-Quickselect) |
+| **Quicksort** | [Ada-SPARK-Quicksort](https://github.com/RobertBoettcherSF/Ada-SPARK-Quicksort) |
+| **Radix Sort** | [Ada-SPARK-Radix-Sort](https://github.com/RobertBoettcherSF/Ada-SPARK-Radix-Sort) |
+| **Samplesort** | [Ada-SPARK-Samplesort](https://github.com/RobertBoettcherSF/Ada-SPARK-Samplesort) |
+| **Selection Algorithm** | [Ada-SPARK-Selection-Algorithm](https://github.com/RobertBoettcherSF/Ada-SPARK-Selection-Algorithm) |
+| **Selection Sort** | [Ada-SPARK-Selection-Sort](https://github.com/RobertBoettcherSF/Ada-SPARK-Selection-Sort) |
+| **Shell Sort** | [Ada-SPARK-Shell-Sort](https://github.com/RobertBoettcherSF/Ada-SPARK-Shell-Sort) |
+| **Slowsort** | [Ada-SPARK-Slowsort](https://github.com/RobertBoettcherSF/Ada-SPARK-Slowsort) |
+| **Smoothsort** | [Ada-SPARK-Smoothsort](https://github.com/RobertBoettcherSF/Ada-SPARK-Smoothsort) |
+| **Sort Merge Join** | [Ada-SPARK-Sort-Merge-Join](https://github.com/RobertBoettcherSF/Ada-SPARK-Sort-Merge-Join) |
+| **Sorted List** | [Ada-SPARK-Sorted-List](https://github.com/RobertBoettcherSF/Ada-SPARK-Sorted-List) |
+| **Spaghetti Sort** | [Ada-SPARK-Spaghetti-Sort](https://github.com/RobertBoettcherSF/Ada-SPARK-Spaghetti-Sort) |
+| **Stooge Sort** | [Ada-SPARK-Stooge-Sort](https://github.com/RobertBoettcherSF/Ada-SPARK-Stooge-Sort) |
+| **Strand Sort** | [Ada-SPARK-Strand-Sort](https://github.com/RobertBoettcherSF/Ada-SPARK-Strand-Sort) |
+| **Ternary Search** | [Ada-SPARK-Ternary-Search](https://github.com/RobertBoettcherSF/Ada-SPARK-Ternary-Search) |
+| **Timsort** | [Ada-SPARK-Timsort](https://github.com/RobertBoettcherSF/Ada-SPARK-Timsort) |
+| **Topological Sort** | [Ada-SPARK-Topological-Sort](https://github.com/RobertBoettcherSF/Ada-SPARK-Topological-Sort) |
+| **Tree Sort** | [Ada-SPARK-Tree-Sort](https://github.com/RobertBoettcherSF/Ada-SPARK-Tree-Sort) |
+| **Uniform Cost Search** | [Ada-SPARK-Uniform-Cost-Search](https://github.com/RobertBoettcherSF/Ada-SPARK-Uniform-Cost-Search) |
+
+<!-- ADA-CATALOG:SPARK-END -->
+
+<!-- ADA-CATALOG:A2022-BEGIN -->
+## 📘 Ada 2022 Teaching Sheets
+
+Small Ada 2022 standard-library / language teaching packages (`make && make test`, no SPARK).
+
+
+---
+
+### All Ada-2022 teaching sheets
+
+
+| Package | Repository |
+| --- | --- |
+| **Abort Statement** | [Ada-2022-Abort-Statement](https://github.com/RobertBoettcherSF/Ada-2022-Abort-Statement) |
+| **Access Types** | [Ada-2022-Access-Types](https://github.com/RobertBoettcherSF/Ada-2022-Access-Types) |
+| **Address To Access Conversions** | [Ada-2022-Address-To-Access-Conversions](https://github.com/RobertBoettcherSF/Ada-2022-Address-To-Access-Conversions) |
+| **Aggregates** | [Ada-2022-Aggregates](https://github.com/RobertBoettcherSF/Ada-2022-Aggregates) |
+| **Anonymous Access** | [Ada-2022-Anonymous-Access](https://github.com/RobertBoettcherSF/Ada-2022-Anonymous-Access) |
+| **Arrays And Records** | [Ada-2022-Arrays-And-Records](https://github.com/RobertBoettcherSF/Ada-2022-Arrays-And-Records) |
+| **Aspects** | [Ada-2022-Aspects](https://github.com/RobertBoettcherSF/Ada-2022-Aspects) |
+| **Asynchronous Select** | [Ada-2022-Asynchronous-Select](https://github.com/RobertBoettcherSF/Ada-2022-Asynchronous-Select) |
+| **Attributes** | [Ada-2022-Attributes](https://github.com/RobertBoettcherSF/Ada-2022-Attributes) |
+| **Big Integers** | [Ada-2022-Big-Integers](https://github.com/RobertBoettcherSF/Ada-2022-Big-Integers) |
+| **Big Numbers** | [Ada-2022-Big-Numbers](https://github.com/RobertBoettcherSF/Ada-2022-Big-Numbers) |
+| **Big Reals** | [Ada-2022-Big-Reals](https://github.com/RobertBoettcherSF/Ada-2022-Big-Reals) |
+| **Bounded Doubly Linked Lists** | [Ada-2022-Bounded-Doubly-Linked-Lists](https://github.com/RobertBoettcherSF/Ada-2022-Bounded-Doubly-Linked-Lists) |
+| **Bounded Hashed Maps** | [Ada-2022-Bounded-Hashed-Maps](https://github.com/RobertBoettcherSF/Ada-2022-Bounded-Hashed-Maps) |
+| **Bounded Hashed Sets** | [Ada-2022-Bounded-Hashed-Sets](https://github.com/RobertBoettcherSF/Ada-2022-Bounded-Hashed-Sets) |
+| **Bounded Multiway Trees** | [Ada-2022-Bounded-Multiway-Trees](https://github.com/RobertBoettcherSF/Ada-2022-Bounded-Multiway-Trees) |
+| **Bounded Ordered Maps** | [Ada-2022-Bounded-Ordered-Maps](https://github.com/RobertBoettcherSF/Ada-2022-Bounded-Ordered-Maps) |
+| **Bounded Ordered Sets** | [Ada-2022-Bounded-Ordered-Sets](https://github.com/RobertBoettcherSF/Ada-2022-Bounded-Ordered-Sets) |
+| **Bounded Priority Queues** | [Ada-2022-Bounded-Priority-Queues](https://github.com/RobertBoettcherSF/Ada-2022-Bounded-Priority-Queues) |
+| **Bounded Strings** | [Ada-2022-Bounded-Strings](https://github.com/RobertBoettcherSF/Ada-2022-Bounded-Strings) |
+| **Bounded Synchronized Queues** | [Ada-2022-Bounded-Synchronized-Queues](https://github.com/RobertBoettcherSF/Ada-2022-Bounded-Synchronized-Queues) |
+| **Bounded Vectors** | [Ada-2022-Bounded-Vectors](https://github.com/RobertBoettcherSF/Ada-2022-Bounded-Vectors) |
+| **Calendar Arithmetic** | [Ada-2022-Calendar-Arithmetic](https://github.com/RobertBoettcherSF/Ada-2022-Calendar-Arithmetic) |
+| **Calendar Delays** | [Ada-2022-Calendar-Delays](https://github.com/RobertBoettcherSF/Ada-2022-Calendar-Delays) |
+| **Calendar Formatting** | [Ada-2022-Calendar-Formatting](https://github.com/RobertBoettcherSF/Ada-2022-Calendar-Formatting) |
+| **Calendar Time Zones** | [Ada-2022-Calendar-Time-Zones](https://github.com/RobertBoettcherSF/Ada-2022-Calendar-Time-Zones) |
+| **Calendar Timing** | [Ada-2022-Calendar-Timing](https://github.com/RobertBoettcherSF/Ada-2022-Calendar-Timing) |
+| **Case If Expressions** | [Ada-2022-Case-If-Expressions](https://github.com/RobertBoettcherSF/Ada-2022-Case-If-Expressions) |
+| **Characters Conversions** | [Ada-2022-Characters-Conversions](https://github.com/RobertBoettcherSF/Ada-2022-Characters-Conversions) |
+| **Characters Handling** | [Ada-2022-Characters-Handling](https://github.com/RobertBoettcherSF/Ada-2022-Characters-Handling) |
+| **Characters Latin 1** | [Ada-2022-Characters-Latin-1](https://github.com/RobertBoettcherSF/Ada-2022-Characters-Latin-1) |
+| **Characters Latin 9** | [Ada-2022-Characters-Latin-9](https://github.com/RobertBoettcherSF/Ada-2022-Characters-Latin-9) |
+| **Command Line** | [Ada-2022-Command-Line](https://github.com/RobertBoettcherSF/Ada-2022-Command-Line) |
+| **Command Line Environment** | [Ada-2022-Command-Line-Environment](https://github.com/RobertBoettcherSF/Ada-2022-Command-Line-Environment) |
+| **Complex Elementary** | [Ada-2022-Complex-Elementary](https://github.com/RobertBoettcherSF/Ada-2022-Complex-Elementary) |
+| **Complex Elementary Functions** | [Ada-2022-Complex-Elementary-Functions](https://github.com/RobertBoettcherSF/Ada-2022-Complex-Elementary-Functions) |
+| **Complex Text IO** | [Ada-2022-Complex-Text-IO](https://github.com/RobertBoettcherSF/Ada-2022-Complex-Text-IO) |
+| **Complex Types** | [Ada-2022-Complex-Types](https://github.com/RobertBoettcherSF/Ada-2022-Complex-Types) |
+| **Conditional Case Expressions** | [Ada-2022-Conditional-Case-Expressions](https://github.com/RobertBoettcherSF/Ada-2022-Conditional-Case-Expressions) |
+| **Containers** | [Ada-2022-Containers](https://github.com/RobertBoettcherSF/Ada-2022-Containers) |
+| **Contracts** | [Ada-2022-Contracts](https://github.com/RobertBoettcherSF/Ada-2022-Contracts) |
+| **Controlled Types** | [Ada-2022-Controlled-Types](https://github.com/RobertBoettcherSF/Ada-2022-Controlled-Types) |
+| **Decimal** | [Ada-2022-Decimal](https://github.com/RobertBoettcherSF/Ada-2022-Decimal) |
+| **Declare Expressions** | [Ada-2022-Declare-Expressions](https://github.com/RobertBoettcherSF/Ada-2022-Declare-Expressions) |
+| **Declare Quantify Combos** | [Ada-2022-Declare-Quantify-Combos](https://github.com/RobertBoettcherSF/Ada-2022-Declare-Quantify-Combos) |
+| **Delta Aggregates** | [Ada-2022-Delta-Aggregates](https://github.com/RobertBoettcherSF/Ada-2022-Delta-Aggregates) |
+| **Direct IO** | [Ada-2022-Direct-IO](https://github.com/RobertBoettcherSF/Ada-2022-Direct-IO) |
+| **Directories** | [Ada-2022-Directories](https://github.com/RobertBoettcherSF/Ada-2022-Directories) |
+| **Directories Hierarchical File Names** | [Ada-2022-Directories-Hierarchical-File-Names](https://github.com/RobertBoettcherSF/Ada-2022-Directories-Hierarchical-File-Names) |
+| **Discrete Random** | [Ada-2022-Discrete-Random](https://github.com/RobertBoettcherSF/Ada-2022-Discrete-Random) |
+| **Discriminants** | [Ada-2022-Discriminants](https://github.com/RobertBoettcherSF/Ada-2022-Discriminants) |
+| **Dispatching** | [Ada-2022-Dispatching](https://github.com/RobertBoettcherSF/Ada-2022-Dispatching) |
+| **Dispatching Yield** | [Ada-2022-Dispatching-Yield](https://github.com/RobertBoettcherSF/Ada-2022-Dispatching-Yield) |
+| **Doubly Linked Lists** | [Ada-2022-Doubly-Linked-Lists](https://github.com/RobertBoettcherSF/Ada-2022-Doubly-Linked-Lists) |
+| **Dynamic Priorities** | [Ada-2022-Dynamic-Priorities](https://github.com/RobertBoettcherSF/Ada-2022-Dynamic-Priorities) |
+| **Elementary Functions** | [Ada-2022-Elementary-Functions](https://github.com/RobertBoettcherSF/Ada-2022-Elementary-Functions) |
+| **Entry Families** | [Ada-2022-Entry-Families](https://github.com/RobertBoettcherSF/Ada-2022-Entry-Families) |
+| **Environment Variables** | [Ada-2022-Environment-Variables](https://github.com/RobertBoettcherSF/Ada-2022-Environment-Variables) |
+| **Exception Information** | [Ada-2022-Exception-Information](https://github.com/RobertBoettcherSF/Ada-2022-Exception-Information) |
+| **Exceptions** | [Ada-2022-Exceptions](https://github.com/RobertBoettcherSF/Ada-2022-Exceptions) |
+| **Execution Time** | [Ada-2022-Execution-Time](https://github.com/RobertBoettcherSF/Ada-2022-Execution-Time) |
+| **Expression Functions** | [Ada-2022-Expression-Functions](https://github.com/RobertBoettcherSF/Ada-2022-Expression-Functions) |
+| **Finalization** | [Ada-2022-Finalization](https://github.com/RobertBoettcherSF/Ada-2022-Finalization) |
+| **Finalization Controlled** | [Ada-2022-Finalization-Controlled](https://github.com/RobertBoettcherSF/Ada-2022-Finalization-Controlled) |
+| **Fixed Point** | [Ada-2022-Fixed-Point](https://github.com/RobertBoettcherSF/Ada-2022-Fixed-Point) |
+| **Float Random** | [Ada-2022-Float-Random](https://github.com/RobertBoettcherSF/Ada-2022-Float-Random) |
+| **Float Text IO** | [Ada-2022-Float-Text-IO](https://github.com/RobertBoettcherSF/Ada-2022-Float-Text-IO) |
+| **Formal Packages** | [Ada-2022-Formal-Packages](https://github.com/RobertBoettcherSF/Ada-2022-Formal-Packages) |
+| **GPR Projects** | [Ada-2022-GPR-Projects](https://github.com/RobertBoettcherSF/Ada-2022-GPR-Projects) |
+| **Generics** | [Ada-2022-Generics](https://github.com/RobertBoettcherSF/Ada-2022-Generics) |
+| **Hashed Maps** | [Ada-2022-Hashed-Maps](https://github.com/RobertBoettcherSF/Ada-2022-Hashed-Maps) |
+| **Hashed Sets** | [Ada-2022-Hashed-Sets](https://github.com/RobertBoettcherSF/Ada-2022-Hashed-Sets) |
+| **IO** | [Ada-2022-IO](https://github.com/RobertBoettcherSF/Ada-2022-IO) |
+| **Indefinite Containers** | [Ada-2022-Indefinite-Containers](https://github.com/RobertBoettcherSF/Ada-2022-Indefinite-Containers) |
+| **Indefinite Doubly Linked Lists** | [Ada-2022-Indefinite-Doubly-Linked-Lists](https://github.com/RobertBoettcherSF/Ada-2022-Indefinite-Doubly-Linked-Lists) |
+| **Indefinite Hashed Maps** | [Ada-2022-Indefinite-Hashed-Maps](https://github.com/RobertBoettcherSF/Ada-2022-Indefinite-Hashed-Maps) |
+| **Indefinite Hashed Sets** | [Ada-2022-Indefinite-Hashed-Sets](https://github.com/RobertBoettcherSF/Ada-2022-Indefinite-Hashed-Sets) |
+| **Indefinite Holders** | [Ada-2022-Indefinite-Holders](https://github.com/RobertBoettcherSF/Ada-2022-Indefinite-Holders) |
+| **Indefinite Multiway Trees** | [Ada-2022-Indefinite-Multiway-Trees](https://github.com/RobertBoettcherSF/Ada-2022-Indefinite-Multiway-Trees) |
+| **Indefinite Ordered Maps** | [Ada-2022-Indefinite-Ordered-Maps](https://github.com/RobertBoettcherSF/Ada-2022-Indefinite-Ordered-Maps) |
+| **Indefinite Ordered Sets** | [Ada-2022-Indefinite-Ordered-Sets](https://github.com/RobertBoettcherSF/Ada-2022-Indefinite-Ordered-Sets) |
+| **Indefinite Vectors** | [Ada-2022-Indefinite-Vectors](https://github.com/RobertBoettcherSF/Ada-2022-Indefinite-Vectors) |
+| **Integer Text IO** | [Ada-2022-Integer-Text-IO](https://github.com/RobertBoettcherSF/Ada-2022-Integer-Text-IO) |
+| **Interfaces** | [Ada-2022-Interfaces](https://github.com/RobertBoettcherSF/Ada-2022-Interfaces) |
+| **Interfaces C** | [Ada-2022-Interfaces-C](https://github.com/RobertBoettcherSF/Ada-2022-Interfaces-C) |
+| **Interfaces C Extensions** | [Ada-2022-Interfaces-C-Extensions](https://github.com/RobertBoettcherSF/Ada-2022-Interfaces-C-Extensions) |
+| **Interfaces C Pointers** | [Ada-2022-Interfaces-C-Pointers](https://github.com/RobertBoettcherSF/Ada-2022-Interfaces-C-Pointers) |
+| **Interfaces C Strings** | [Ada-2022-Interfaces-C-Strings](https://github.com/RobertBoettcherSF/Ada-2022-Interfaces-C-Strings) |
+| **Interfaces Fortran** | [Ada-2022-Interfaces-Fortran](https://github.com/RobertBoettcherSF/Ada-2022-Interfaces-Fortran) |
+| **Interrupts** | [Ada-2022-Interrupts](https://github.com/RobertBoettcherSF/Ada-2022-Interrupts) |
+| **Iterator Filters** | [Ada-2022-Iterator-Filters](https://github.com/RobertBoettcherSF/Ada-2022-Iterator-Filters) |
+| **Iterator Interfaces** | [Ada-2022-Iterator-Interfaces](https://github.com/RobertBoettcherSF/Ada-2022-Iterator-Interfaces) |
+| **Iterators** | [Ada-2022-Iterators](https://github.com/RobertBoettcherSF/Ada-2022-Iterators) |
+| **Limited Types** | [Ada-2022-Limited-Types](https://github.com/RobertBoettcherSF/Ada-2022-Limited-Types) |
+| **Limited With** | [Ada-2022-Limited-With](https://github.com/RobertBoettcherSF/Ada-2022-Limited-With) |
+| **Lists Deep Dive** | [Ada-2022-Lists-Deep-Dive](https://github.com/RobertBoettcherSF/Ada-2022-Lists-Deep-Dive) |
+| **Locales** | [Ada-2022-Locales](https://github.com/RobertBoettcherSF/Ada-2022-Locales) |
+| **Multiway Trees** | [Ada-2022-Multiway-Trees](https://github.com/RobertBoettcherSF/Ada-2022-Multiway-Trees) |
+| **Null Exclusions** | [Ada-2022-Null-Exclusions](https://github.com/RobertBoettcherSF/Ada-2022-Null-Exclusions) |
+| **Numerics** | [Ada-2022-Numerics](https://github.com/RobertBoettcherSF/Ada-2022-Numerics) |
+| **Ordered Maps** | [Ada-2022-Ordered-Maps](https://github.com/RobertBoettcherSF/Ada-2022-Ordered-Maps) |
+| **Ordered Sets** | [Ada-2022-Ordered-Sets](https://github.com/RobertBoettcherSF/Ada-2022-Ordered-Sets) |
+| **Packages** | [Ada-2022-Packages](https://github.com/RobertBoettcherSF/Ada-2022-Packages) |
+| **Parallel Reduce** | [Ada-2022-Parallel-Reduce](https://github.com/RobertBoettcherSF/Ada-2022-Parallel-Reduce) |
+| **Prefixed Views** | [Ada-2022-Prefixed-Views](https://github.com/RobertBoettcherSF/Ada-2022-Prefixed-Views) |
+| **Protected Entries** | [Ada-2022-Protected-Entries](https://github.com/RobertBoettcherSF/Ada-2022-Protected-Entries) |
+| **Put Image** | [Ada-2022-Put-Image](https://github.com/RobertBoettcherSF/Ada-2022-Put-Image) |
+| **Quantified Expressions** | [Ada-2022-Quantified-Expressions](https://github.com/RobertBoettcherSF/Ada-2022-Quantified-Expressions) |
+| **Random Numbers** | [Ada-2022-Random-Numbers](https://github.com/RobertBoettcherSF/Ada-2022-Random-Numbers) |
+| **Real Time** | [Ada-2022-Real-Time](https://github.com/RobertBoettcherSF/Ada-2022-Real-Time) |
+| **Reduce** | [Ada-2022-Reduce](https://github.com/RobertBoettcherSF/Ada-2022-Reduce) |
+| **Reference Types** | [Ada-2022-Reference-Types](https://github.com/RobertBoettcherSF/Ada-2022-Reference-Types) |
+| **Representation Clauses** | [Ada-2022-Representation-Clauses](https://github.com/RobertBoettcherSF/Ada-2022-Representation-Clauses) |
+| **Requeue** | [Ada-2022-Requeue](https://github.com/RobertBoettcherSF/Ada-2022-Requeue) |
+| **Select Statements** | [Ada-2022-Select-Statements](https://github.com/RobertBoettcherSF/Ada-2022-Select-Statements) |
+| **Sequential IO** | [Ada-2022-Sequential-IO](https://github.com/RobertBoettcherSF/Ada-2022-Sequential-IO) |
+| **Storage Elements** | [Ada-2022-Storage-Elements](https://github.com/RobertBoettcherSF/Ada-2022-Storage-Elements) |
+| **Storage IO** | [Ada-2022-Storage-IO](https://github.com/RobertBoettcherSF/Ada-2022-Storage-IO) |
+| **Stream IO** | [Ada-2022-Stream-IO](https://github.com/RobertBoettcherSF/Ada-2022-Stream-IO) |
+| **Streams** | [Ada-2022-Streams](https://github.com/RobertBoettcherSF/Ada-2022-Streams) |
+| **String Processing** | [Ada-2022-String-Processing](https://github.com/RobertBoettcherSF/Ada-2022-String-Processing) |
+| **Strings Bounded** | [Ada-2022-Strings-Bounded](https://github.com/RobertBoettcherSF/Ada-2022-Strings-Bounded) |
+| **Strings Fixed** | [Ada-2022-Strings-Fixed](https://github.com/RobertBoettcherSF/Ada-2022-Strings-Fixed) |
+| **Strings Maps** | [Ada-2022-Strings-Maps](https://github.com/RobertBoettcherSF/Ada-2022-Strings-Maps) |
+| **Strings Maps Constants** | [Ada-2022-Strings-Maps-Constants](https://github.com/RobertBoettcherSF/Ada-2022-Strings-Maps-Constants) |
+| **Strings Unbounded** | [Ada-2022-Strings-Unbounded](https://github.com/RobertBoettcherSF/Ada-2022-Strings-Unbounded) |
+| **Synchronized Queue Interfaces** | [Ada-2022-Synchronized-Queue-Interfaces](https://github.com/RobertBoettcherSF/Ada-2022-Synchronized-Queue-Interfaces) |
+| **Synchronous Barriers** | [Ada-2022-Synchronous-Barriers](https://github.com/RobertBoettcherSF/Ada-2022-Synchronous-Barriers) |
+| **Synchronous Task Control** | [Ada-2022-Synchronous-Task-Control](https://github.com/RobertBoettcherSF/Ada-2022-Synchronous-Task-Control) |
+| **Tagged Streams** | [Ada-2022-Tagged-Streams](https://github.com/RobertBoettcherSF/Ada-2022-Tagged-Streams) |
+| **Tagged Types** | [Ada-2022-Tagged-Types](https://github.com/RobertBoettcherSF/Ada-2022-Tagged-Types) |
+| **Tags** | [Ada-2022-Tags](https://github.com/RobertBoettcherSF/Ada-2022-Tags) |
+| **Target Name** | [Ada-2022-Target-Name](https://github.com/RobertBoettcherSF/Ada-2022-Target-Name) |
+| **Task Attributes** | [Ada-2022-Task-Attributes](https://github.com/RobertBoettcherSF/Ada-2022-Task-Attributes) |
+| **Task Discriminants** | [Ada-2022-Task-Discriminants](https://github.com/RobertBoettcherSF/Ada-2022-Task-Discriminants) |
+| **Task Identification** | [Ada-2022-Task-Identification](https://github.com/RobertBoettcherSF/Ada-2022-Task-Identification) |
+| **Task Termination** | [Ada-2022-Task-Termination](https://github.com/RobertBoettcherSF/Ada-2022-Task-Termination) |
+| **Tasking Basics** | [Ada-2022-Tasking-Basics](https://github.com/RobertBoettcherSF/Ada-2022-Tasking-Basics) |
+| **Text IO Bounded IO** | [Ada-2022-Text-IO-Bounded-IO](https://github.com/RobertBoettcherSF/Ada-2022-Text-IO-Bounded-IO) |
+| **Text IO Complex IO** | [Ada-2022-Text-IO-Complex-IO](https://github.com/RobertBoettcherSF/Ada-2022-Text-IO-Complex-IO) |
+| **Text IO Editing** | [Ada-2022-Text-IO-Editing](https://github.com/RobertBoettcherSF/Ada-2022-Text-IO-Editing) |
+| **Text IO Enumeration IO** | [Ada-2022-Text-IO-Enumeration-IO](https://github.com/RobertBoettcherSF/Ada-2022-Text-IO-Enumeration-IO) |
+| **Text IO Unbounded IO** | [Ada-2022-Text-IO-Unbounded-IO](https://github.com/RobertBoettcherSF/Ada-2022-Text-IO-Unbounded-IO) |
+| **Timing Events** | [Ada-2022-Timing-Events](https://github.com/RobertBoettcherSF/Ada-2022-Timing-Events) |
+| **Types And Subtypes** | [Ada-2022-Types-And-Subtypes](https://github.com/RobertBoettcherSF/Ada-2022-Types-And-Subtypes) |
+| **UTF Encoding** | [Ada-2022-UTF-Encoding](https://github.com/RobertBoettcherSF/Ada-2022-UTF-Encoding) |
+| **UTF Encoding Conversions** | [Ada-2022-UTF-Encoding-Conversions](https://github.com/RobertBoettcherSF/Ada-2022-UTF-Encoding-Conversions) |
+| **UTF Encoding Strings** | [Ada-2022-UTF-Encoding-Strings](https://github.com/RobertBoettcherSF/Ada-2022-UTF-Encoding-Strings) |
+| **Unbounded Priority Queues** | [Ada-2022-Unbounded-Priority-Queues](https://github.com/RobertBoettcherSF/Ada-2022-Unbounded-Priority-Queues) |
+| **Unbounded Synchronized Queues** | [Ada-2022-Unbounded-Synchronized-Queues](https://github.com/RobertBoettcherSF/Ada-2022-Unbounded-Synchronized-Queues) |
+| **Unbounded Text IO** | [Ada-2022-Unbounded-Text-IO](https://github.com/RobertBoettcherSF/Ada-2022-Unbounded-Text-IO) |
+| **Unchecked Conversion** | [Ada-2022-Unchecked-Conversion](https://github.com/RobertBoettcherSF/Ada-2022-Unchecked-Conversion) |
+| **Unchecked Deallocation** | [Ada-2022-Unchecked-Deallocation](https://github.com/RobertBoettcherSF/Ada-2022-Unchecked-Deallocation) |
+| **User Defined Indexing** | [Ada-2022-User-Defined-Indexing](https://github.com/RobertBoettcherSF/Ada-2022-User-Defined-Indexing) |
+| **User Defined Literals** | [Ada-2022-User-Defined-Literals](https://github.com/RobertBoettcherSF/Ada-2022-User-Defined-Literals) |
+| **Vectors** | [Ada-2022-Vectors](https://github.com/RobertBoettcherSF/Ada-2022-Vectors) |
+| **Vectors Deep Dive** | [Ada-2022-Vectors-Deep-Dive](https://github.com/RobertBoettcherSF/Ada-2022-Vectors-Deep-Dive) |
+| **Visibility Renames** | [Ada-2022-Visibility-Renames](https://github.com/RobertBoettcherSF/Ada-2022-Visibility-Renames) |
+| **Wide Characters Unicode** | [Ada-2022-Wide-Characters-Unicode](https://github.com/RobertBoettcherSF/Ada-2022-Wide-Characters-Unicode) |
+
+<!-- ADA-CATALOG:A2022-END -->
