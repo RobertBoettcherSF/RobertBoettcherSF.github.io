@@ -21,6 +21,10 @@
 | **rogue_engine** | [rogue_engine](https://github.com/RobertBoettcherSF/rogue_engine) | Ada 2023 survival ops / bunker–strider engine (suit, Story_Arc, messages, SI strip). MIT. |
 
 
+## 📘 Tutorial companions
+
+Standalone MIT sheets that fill open stubs in Peter Chapin’s [tutorialada](https://github.com/pchapin/tutorialada) (not a fork): [Ada-2022-Tagged-Types](https://github.com/RobertBoettcherSF/Ada-2022-Tagged-Types) (OOP chapter still *To be written…*) and [Ada-2022-Unchecked-Deallocation](https://github.com/RobertBoettcherSF/Ada-2022-Unchecked-Deallocation) (*Show an example of Unchecked_Deallocation…*).
+
 ## ✅ Verification (measured)
 
 Educational SPARK sheets with figures from our last successful `make prove` / `gnatprove.out`. **Not** a third-party compliance audit (no DO-178C / ISO / AdaCore Covex Platinum claim unless `adacovex` artifacts exist).
