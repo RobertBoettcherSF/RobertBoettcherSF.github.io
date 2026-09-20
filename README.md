@@ -11,8 +11,28 @@
 
 | Project | Repository | Description |
 | --- | --- | --- |
+| **Connected-Component Labeling (SPARK L2)** | [Ada-SPARK-Connected-Component-Labeling](https://github.com/RobertBoettcherSF/Ada-SPARK-Connected-Component-Labeling) | ICEYE-adjacent CCL on binary masks; 4-connectivity; L2 cvc5 **18/18**. |
+| **Median Filtering (SPARK L2)** | [Ada-SPARK-Median-Filtering](https://github.com/RobertBoettcherSF/Ada-SPARK-Median-Filtering) | Fixed $3\times3$ median pre-filter sheet; L2 **34/34**. |
+| **Cooley–Tukey FFT (SPARK L2)** | [Ada-SPARK-Cooley-Tukey-FFT](https://github.com/RobertBoettcherSF/Ada-SPARK-Cooley-Tukey-FFT) | Fixed-point radix-2 FFT ($N=8$); SAR-formation building block; L2 **45/45**. |
+| **PN-Counter CRDT (SPARK L2)** | [Ada-SPARK-PN-Counter](https://github.com/RobertBoettcherSF/Ada-SPARK-PN-Counter) | Clean-room PN-Counter sheet; merge = componentwise $\max$; L2 **23/23**. |
 | **Ada Logistics Module** | [Ada-Logistics-Module](https://github.com/RobertBoettcherSF/Ada-Logistics-Module) | Clean-room logistics/Spedition sim (EU classes, Space_Haul/Tunnel, ATC, evolutionary fleet, sim_run.csv). MIT. |
 | **rogue_engine** | [rogue_engine](https://github.com/RobertBoettcherSF/rogue_engine) | Ada 2023 survival ops / bunker–strider engine (suit, Story_Arc, messages, SI strip). MIT. |
+
+
+## ✅ Verification (measured)
+
+Educational SPARK sheets with figures from our last successful `make prove` / `gnatprove.out`. **Not** a third-party compliance audit (no DO-178C / ISO / AdaCore Covex Platinum claim unless `adacovex` artifacts exist).
+
+
+| Package | Level | Proved | Notes |
+| --- | --- | --- | --- |
+| [Ada-SPARK-Connected-Component-Labeling](https://github.com/RobertBoettcherSF/Ada-SPARK-Connected-Component-Labeling) | L2 cvc5 | 18/18 | ICEYE-adjacent CCL sheet |
+| [Ada-SPARK-Median-Filtering](https://github.com/RobertBoettcherSF/Ada-SPARK-Median-Filtering) | L2 | 34/34 | $3\times3$ median pre-filter |
+| [Ada-SPARK-Cooley-Tukey-FFT](https://github.com/RobertBoettcherSF/Ada-SPARK-Cooley-Tukey-FFT) | L2 | 45/45 | Fixed-point radix-2 FFT |
+| [Ada-SPARK-PN-Counter](https://github.com/RobertBoettcherSF/Ada-SPARK-PN-Counter) | L2 cvc5 | 23/23 | Clean-room PN-Counter CRDT |
+| [Ada-SPARK-CRC32](https://github.com/RobertBoettcherSF/Ada-SPARK-CRC32) | L2 | (per README) | `make prove` L2 cvc5 |
+| [Ada-SPARK-Huffman-Coding](https://github.com/RobertBoettcherSF/Ada-SPARK-Huffman-Coding) | L3 Pareto | 16/16 | Default `make prove` L3 |
+| [Ada-SPARK-Flood-Fill](https://github.com/RobertBoettcherSF/Ada-SPARK-Flood-Fill) | L2 | (per README) | CVC5 Level 2 |
 
 ## 📚 Algorithm Implementations
 
@@ -35,6 +55,7 @@
 | **Maekawa's**                  | [Ada-Maekawas-Algorithm](https://github.com/RobertBoettcherSF/Ada-Maekawas-Algorithm)                                                   | Distributed mutual exclusion                |
 | **Nagle's**                    | [Ada-Nagles-Algorithm](https://github.com/RobertBoettcherSF/Ada-Nagles-Algorithm)                                                       | Network congestion control                  |
 | **Naimi-Trehel**               | [Ada-Naimi-Trehel](https://github.com/RobertBoettcherSF/Ada-Naimi-Trehel)                                                               | Distributed mutual exclusion                |
+| **PN-Counter (CRDT)**           | [Ada-SPARK-PN-Counter](https://github.com/RobertBoettcherSF/Ada-SPARK-PN-Counter)                                                       | Positive-Negative Counter CRDT (SPARK L2)   |
 | **Paxos**                      | [Ada-Paxos-Algorithm](https://github.com/RobertBoettcherSF/Ada-Paxos-Algorithm)                                                         | Consensus algorithm                         |
 | **Peterson's**                 | [Ada-peterson](https://github.com/RobertBoettcherSF/Ada-peterson)                                                                       | Two-process mutual exclusion                |
 | **Raft**                       | [Ada-Raft](https://github.com/RobertBoettcherSF/Ada-Raft)                                                                               | Consensus algorithm                         |
@@ -561,7 +582,7 @@
 
 **Active Development**: Continuously implementing algorithms from the [Wikipedia List of Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms) in Ada and Ada SPARK for formal verification and safety-critical applications.
 
-**2026-09-20**: Featured **Ada Logistics Module** and **rogue_engine**. SPARK L2 ports on DPLL / Knuth–Bendix / Backpropagation / Gradient Descent. Ada-SPARK catalog continues (~926 public `Ada-SPARK-*` repos).
+**2026-09-20**: ICEYE-adjacent SPARK L2 tranche (Connected-Component-Labeling 18/18, Median-Filtering 34/34, Cooley-Tukey-FFT 45/45) plus clean-room **Ada-SPARK-PN-Counter** CRDT sheet (23/23). Featured also keeps **Ada Logistics Module** and **rogue_engine**. SPARK L2 ports on DPLL / Knuth–Bendix / Backpropagation / Gradient Descent. Ada-SPARK catalog continues (~926+ public `Ada-SPARK-*` repos).
 
 **Year**: 2026
 
@@ -677,6 +698,7 @@ Formally verified educational packages (`gnatprove` Level 4). Companion plain-Ad
 | **Bulb Switcher Stub** | [Ada-SPARK-Bulb-Switcher-Stub](https://github.com/RobertBoettcherSF/Ada-SPARK-Bulb-Switcher-Stub) |
 | **Burrows Wheeler Transform** | [Ada-SPARK-Burrows-Wheeler-Transform](https://github.com/RobertBoettcherSF/Ada-SPARK-Burrows-Wheeler-Transform) |
 | **Burstsort** | [Ada-SPARK-Burstsort](https://github.com/RobertBoettcherSF/Ada-SPARK-Burstsort) |
+| **Cooley Tukey FFT** | [Ada-SPARK-Cooley-Tukey-FFT](https://github.com/RobertBoettcherSF/Ada-SPARK-Cooley-Tukey-FFT) |
 | **CRC32** | [Ada-SPARK-CRC32](https://github.com/RobertBoettcherSF/Ada-SPARK-CRC32) |
 | **CSR Row Sum** | [Ada-SPARK-CSR-Row-Sum](https://github.com/RobertBoettcherSF/Ada-SPARK-CSR-Row-Sum) |
 | **Can Place Flowers** | [Ada-SPARK-Can-Place-Flowers](https://github.com/RobertBoettcherSF/Ada-SPARK-Can-Place-Flowers) |
@@ -1067,6 +1089,7 @@ Formally verified educational packages (`gnatprove` Level 4). Companion plain-Ad
 | **Maximum Units On A Truck** | [Ada-SPARK-Maximum-Units-On-A-Truck](https://github.com/RobertBoettcherSF/Ada-SPARK-Maximum-Units-On-A-Truck) |
 | **Maximum XOR Of Two Numbers** | [Ada-SPARK-Maximum-XOR-Of-Two-Numbers](https://github.com/RobertBoettcherSF/Ada-SPARK-Maximum-XOR-Of-Two-Numbers) |
 | **Mean Variance** | [Ada-SPARK-Mean-Variance](https://github.com/RobertBoettcherSF/Ada-SPARK-Mean-Variance) |
+| **Median Filtering** | [Ada-SPARK-Median-Filtering](https://github.com/RobertBoettcherSF/Ada-SPARK-Median-Filtering) |
 | **Median Of Three** | [Ada-SPARK-Median-Of-Three](https://github.com/RobertBoettcherSF/Ada-SPARK-Median-Of-Three) |
 | **Median Of Two Sorted Arrays Lite** | [Ada-SPARK-Median-Of-Two-Sorted-Arrays-Lite](https://github.com/RobertBoettcherSF/Ada-SPARK-Median-Of-Two-Sorted-Arrays-Lite) |
 | **Meeting Rooms** | [Ada-SPARK-Meeting-Rooms](https://github.com/RobertBoettcherSF/Ada-SPARK-Meeting-Rooms) |
@@ -1202,6 +1225,7 @@ Formally verified educational packages (`gnatprove` Level 4). Companion plain-Ad
 | **Petersons Algorithm** | [Ada-SPARK-Petersons-Algorithm](https://github.com/RobertBoettcherSF/Ada-SPARK-Petersons-Algorithm) |
 | **Pigeonhole Sort** | [Ada-SPARK-Pigeonhole-Sort](https://github.com/RobertBoettcherSF/Ada-SPARK-Pigeonhole-Sort) |
 | **Plus One** | [Ada-SPARK-Plus-One](https://github.com/RobertBoettcherSF/Ada-SPARK-Plus-One) |
+| **PN Counter** | [Ada-SPARK-PN-Counter](https://github.com/RobertBoettcherSF/Ada-SPARK-PN-Counter) |
 | **Point In Polygon** | [Ada-SPARK-Point-In-Polygon](https://github.com/RobertBoettcherSF/Ada-SPARK-Point-In-Polygon) |
 | **Population Count** | [Ada-SPARK-Population-Count](https://github.com/RobertBoettcherSF/Ada-SPARK-Population-Count) |
 | **Postman Sort** | [Ada-SPARK-Postman-Sort](https://github.com/RobertBoettcherSF/Ada-SPARK-Postman-Sort) |
