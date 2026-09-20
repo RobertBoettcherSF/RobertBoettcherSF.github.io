@@ -582,9 +582,11 @@ Educational SPARK sheets with figures from our last successful `make prove` / `g
 
 ## 🎯 Project Status
 
-**Active Development**: Continuously implementing algorithms from the [Wikipedia List of Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms) in Ada and Ada SPARK for formal verification and safety-critical applications.
+**2026 Goal — achieved (2026-09-20):** Wikipedia [List of Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms) survey in Ada — **done / over-achieved** ahead of year-end (large public Ada + `Ada-SPARK-*` catalog).
 
-**2026-09-20**: ICEYE-adjacent SPARK L2 tranche (Connected-Component-Labeling 18/18, Median-Filtering 34/34, Cooley-Tukey-FFT 45/45) plus clean-room **Ada-SPARK-PN-Counter** CRDT sheet (23/23). Featured also keeps **Ada Logistics Module** and **rogue_engine**. SPARK L2 ports on DPLL / Knuth–Bendix / Backpropagation / Gradient Descent. Ada-SPARK catalog continues (~926+ public `Ada-SPARK-*` repos).
+**Active Development**: Continuing Ada and Ada SPARK sheets with measured `make prove` bars; clean-room sims (logistics, rogue_engine, delivery safety FSMs, neurorobotics cores); tooling on-ramps (Lui GtkAda, VS Code/Devcontainer). Next focus is verification depth and applications, not raw repo count.
+
+**LLM usage disclosure:** AI assistance was used for these projects.
 
 **Year**: 2026
 
