@@ -4,6 +4,8 @@
 
 *Building reliable, verifiable implementations of classic and modern algorithms in Ada and Ada SPARK*
 
+**LLM usage disclosure:** AI assistance was used for these projects.
+
 ---
 
 ## 🚀 Featured (2026-09-20)
