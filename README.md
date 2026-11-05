@@ -8,14 +8,14 @@ Public project status for this site. Figures were checked against the public Git
 
 ## Current status
 
-The Wikipedia [List of Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms) survey in Ada was marked done on this page on **2026-09-20**, as one public repository per sheet. Those sheets have since been gathered into one repository, and the matching per-sheet repositories are archived. Work after that is SPARK proof records on the consolidated catalog, then separate software projects and a published essay.
+The Wikipedia [List of Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms) survey in Ada was marked done on this page on **2026-09-20**, as one public repository per sheet. Those sheets have since been gathered into one repository, and the matching per-sheet repositories are archived. Work after that is SPARK proof records on the consolidated catalog, then separate software projects and the Manifest, [Make Sure Nothing Breaks](https://github.com/RobertBoettcherSF/make-sure-nothing-breaks).
 
 - **Catalog.** [Ada-Algorithms](https://github.com/RobertBoettcherSF/Ada-Algorithms) (created 2026-09-24, last push 2026-10-11) holds **1,838** algorithm folders. On 2026-11-05 the account had **2,062** public repositories, of which **1,838** were archived: **929** named `Ada-SPARK-…` and **909** other names starting with `Ada-`. Archived copies stay on GitHub; further sheet work is in the monorepo.
 - **SPARK proofs.** The monorepo proof index, last regenerated **2026-10-11**, records **522** Silver-proven non-trivial folders and **91** folders training-ready under rule v1. Counts and what they mean are below.
-- **Since 2026-10-16.** Browser and Ada/WebAssembly projects, simulations, a logistics demo, and the essay [Make Sure Nothing Breaks](https://github.com/RobertBoettcherSF/make-sure-nothing-breaks).
-- **Manifest file.** The survey found one public file with that name: [`Logistic-Manager/manifest.webmanifest`](https://github.com/RobertBoettcherSF/Logistic-Manager/blob/main/manifest.webmanifest), the install manifest for the Swift Drive demo (name, icons, standalone display). There is no public repository named manifest and no `MANIFEST.md`.
+- **Since 2026-10-16.** Browser and Ada/WebAssembly projects, simulations, a logistics demo, and the Manifest, [Make Sure Nothing Breaks](https://github.com/RobertBoettcherSF/make-sure-nothing-breaks).
+- **Manifest.** [Make Sure Nothing Breaks](https://github.com/RobertBoettcherSF/make-sure-nothing-breaks) (`make-sure-nothing-breaks`) is the Manifest: Alpha 3 of *Make Sure Nothing Breaks: Rebuilding the Foundations of Machine Intelligence*. README byline: Robert Boettcher, written with GrokBot. CC BY 4.0. Created 2026-10-23, last push 2026-10-29.
 
-## Software projects and writing
+## Software projects and the Manifest
 
 Newest first. Live links are GitHub Pages URLs that responded on 2026-11-05, or the URL published in that repository's README.
 
@@ -28,7 +28,7 @@ Newest first. Live links are GitHub Pages URLs that responded on 2026-11-05, or 
 | 2026-10-30 | [colony4x](https://github.com/RobertBoettcherSF/colony4x) ([live](https://robertboettchersf.github.io/colony4x/)) | Clean-room browser 4X. README: built with assistance from Grok Bot; names and text are original. MIT. |
 | 2026-10-29 | [spectrum-analyzer](https://github.com/RobertBoettcherSF/spectrum-analyzer) ([live](https://robertboettchersf.github.io/spectrum-analyzer/)) | Spectrum analyzer whose signal processing is Ada compiled to WebAssembly, including a ripple-control demo. JavaScript draws. MIT. |
 | 2026-10-29 | [murmuration-spark](https://github.com/RobertBoettcherSF/murmuration-spark) ([live](https://robertboettchersf.github.io/murmuration-spark/)) | Reynolds boids (separation, alignment, cohesion) in Ada/SPARK, proved with GNATprove to SPARK Gold, run in the browser via WebAssembly. MIT. |
-| 2026-10-29 | [make-sure-nothing-breaks](https://github.com/RobertBoettcherSF/make-sure-nothing-breaks) | Essay, **Alpha 3**: *Make Sure Nothing Breaks: Rebuilding the Foundations of Machine Intelligence*. README byline: Robert Boettcher, written with GrokBot. CC BY 4.0. Created 2026-10-23. |
+| 2026-10-29 | **Manifest:** [make-sure-nothing-breaks](https://github.com/RobertBoettcherSF/make-sure-nothing-breaks) | The Manifest. Alpha 3 essay: *Make Sure Nothing Breaks: Rebuilding the Foundations of Machine Intelligence*. README byline: Robert Boettcher, written with GrokBot. CC BY 4.0. Created 2026-10-23. |
 | 2026-10-26 | [symmetry-visualizations](https://github.com/RobertBoettcherSF/symmetry-visualizations) ([live](https://robertboettchersf.github.io/symmetry-visualizations/dist/)) | 16 animated visualizations in plain Ada compiled to WebAssembly, for Ada students. MIT. |
 | 2026-10-20 | [Diary-Sim](https://github.com/RobertBoettcherSF/Diary-Sim) | Deterministic language-development simulation in Ada 2022. Four beings keep diaries, teach and coin words, and grow a shared vocabulary. |
 | 2026-10-17 | [Logistic-Manager](https://github.com/RobertBoettcherSF/Logistic-Manager) | Swift Drive demo, prototype v0.2: ride and transport PWA (plain HTML/CSS/JS, small Node sync server) set in Benin City. Install metadata: [`manifest.webmanifest`](https://github.com/RobertBoettcherSF/Logistic-Manager/blob/main/manifest.webmanifest). |
