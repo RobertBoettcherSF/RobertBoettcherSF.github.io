@@ -2,7 +2,7 @@
 
 **Robert Boettcher** (Sternenfisch / [RobertBoettcherSF](https://github.com/RobertBoettcherSF))
 
-Public project status for this site. Figures were checked against the public GitHub account on **2026-11-05**.
+Public project status for this site. Figures were checked against the public GitHub account on **2026-11-05**. Dated notes are in [Sternenfisch-Diary](https://github.com/RobertBoettcherSF/Sternenfisch-Diary), public as of **2026-11-06**.
 
 **LLM usage disclosure:** AI assistance was used for these projects. Where a repository names the assistant, that credit is repeated in the entry.
 
@@ -21,6 +21,7 @@ Newest first. Live links are GitHub Pages URLs that responded on 2026-11-05, or 
 
 | Published | Project | What is public |
 | --- | --- | --- |
+| 2026-11-06 | [Sternenfisch-Diary](https://github.com/RobertBoettcherSF/Sternenfisch-Diary) | Public diary — dated notes on Ada/SPARK, software, Fieldnotes, and books. |
 | 2026-11-05 | [ada-ai-amplifier](https://github.com/RobertBoettcherSF/ada-ai-amplifier) ([live](https://robertboettchersf.github.io/ada-ai-amplifier/)) | Readable AI building blocks. Tensor kernels in SPARK, surrounding logic in plain Ada, drawing in the browser via WebAssembly. Visible stamp **v0.8.0-weights**. Created 2026-11-04. MIT. |
 | 2026-11-03 | [irlmaier-simulation](https://github.com/RobertBoettcherSF/irlmaier-simulation) ([live](https://robertboettchersf.github.io/irlmaier-simulation/)) | README text: simulation after Conrad Adlmaier, „Blick in die Zukunft“ (1950–1961). |
 | 2026-11-03 | [ui-mockups](https://github.com/RobertBoettcherSF/ui-mockups) ([live](https://robertboettchersf.github.io/ui-mockups/)) | Standalone HTML/CSS/JS interface mockups in DE/EN/ES/FR. Language and region follow the flag. Texts come from a small Ada core compiled to WebAssembly. Created 2026-10-23. MIT. |
@@ -82,7 +83,7 @@ Earlier research repositories whose names do not start with `Ada-` are still pub
 
 Through 2026-09-20 this page was the sheet catalog: featured repositories, a short measured-verification table, topic tables, and generated lists of `Ada-SPARK-*` and `Ada-2022-*` repositories. The September project-status note marked the Wikipedia survey done and named logistics, rogue_engine, and the editor on-ramps as ongoing. Those repositories are still listed above. Sheet-by-sheet tables from that catalog are retired on this page; [Ada-Algorithms](https://github.com/RobertBoettcherSF/Ada-Algorithms) is the catalog.
 
-The old catalog also linked `ada-code-examples` and `Sternenfisch-Diary`. Neither is visible as a public repository on 2026-11-05, so this page no longer links them.
+The old catalog also linked `ada-code-examples` and `Sternenfisch-Diary`. On 2026-11-05, `ada-code-examples` was not visible as a public repository, so this page does not link it. [Sternenfisch-Diary](https://github.com/RobertBoettcherSF/Sternenfisch-Diary) is public as of 2026-11-06.
 
 ---
 
